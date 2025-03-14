@@ -22,4 +22,4 @@ def test_divide():
 
 @pytest.mark.easy_operation
 def test_multiply_by_two_with_id():
-    assert multiply(8, 2) == 16  # Using the last two digits of my student ID
+    assert multiply(7, 2) == 16  # Using the last two digits of my student ID
